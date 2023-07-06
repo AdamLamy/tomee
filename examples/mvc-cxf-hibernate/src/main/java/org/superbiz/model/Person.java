@@ -77,9 +77,7 @@ public class Person {
         return name;
     }
 
-    public int getAge() {
-        return age;
-    }
+    public int getAge() {return age;}
 
     public Address getAddress() {
         return address;

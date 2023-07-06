@@ -34,6 +34,7 @@
             <div>
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="${mvc.basePath}/mvc/show">Peoples</a></li>
+                    <li class="active"><a href="${mvc.basePath}/form/new">Form</a></li>
                 </ul>
             </div>
         </div>
